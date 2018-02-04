@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2018-02-04 13:16:46.874 UTC</timestamp>
+  <md5sum>ef2f187961eda55eab39f5e6d8a31cca</md5sum>
+  <fileName>Credential id=a1aeec63-3da5-4d88-805b-08a0a78067f8 name=ewapoplawska/******</fileName>
+  <usages>
+    <entry>
+      <string>hello-world-printer-app/se_hello_printer_app/master</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

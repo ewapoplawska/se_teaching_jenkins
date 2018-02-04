@@ -1,0 +1,26 @@
+Branch indexing
+[Sun Feb 04 13:16:30 UTC 2018] Starting branch indexing...
+[8mha:////4IhQJFsRamUoP3K3Xb4RfMmgpr3pdSUYVOB9jqsszltGAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHRiwjfmswDdaO7BjgAAAA==[0mConnecting to https://api.github.com using ewapoplawska/******
+Examining [8mha:////4IHjCtlEMWORU11AweRODGewTmvDVO9qVRSH4VKWLur4AAAAsh+LCAAAAAAAAP9djbENwjAQRY8gGIAS0bBA3CAKUCoakCIaBogMnOyQwz7ZFxLWYA1oGIJx2IEgOn7zf/Pef7xhEANMbH2M3qUH76InTNdXxkClq7ZecJ7dn9mNXwkkGxgSOiM2h34dSGCUn/RFK9LOqJ2E0pllG2D8p1v9+iuDX3oJQMvdmArMrAjHhVKmFFvvO+qssNHsmXQTK60iFhaJfMHdgWAoNPMHd9lek7kAAAA=[0mewapoplawska/se_hello_printer_app
+
+  Checking branches...
+
+  Getting remote branches...
+
+    Checking branch [8mha:////4CMoS2JSzMvYTG2fbg+PJch3kBXyzX2D0ARkajnuziz9AAAAuR+LCAAAAAAAAP9djbENwjAURD9BZABKxAxxRwGKhEQDUkTDAJGBLzvEsb/sHxLWYA1oGIJx2AGjdFxzd8W9e35gEjzMdXsOzmYnZ4MzmG1vhN5Utt47xkX+eOV3eieQ7CA1aBXrAsatNwzT4iKvUhhplTiwr6xa9R5mf7jN4D8YDBolAD3FkDKsNTOFpRCqYt0e46oR2ElyZGQXaikClhqNcSXFA0ZfSiLBHlE0MsT+Bb4dGZjFAAAA[0mmaster
+
+  Getting remote pull requests...
+      ‘Jenkinsfile’ found
+    Met criteria
+Scheduled build for branch: master
+
+  1 branches were processed
+
+  Checking pull-requests...
+
+  0 pull requests were processed
+
+Finished examining ewapoplawska/se_hello_printer_app
+
+[Sun Feb 04 13:16:32 UTC 2018] Finished branch indexing. Indexing took 2.2 sec
+Finished: SUCCESS

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<jenkins.branch.OrganizationFolder_-State plugin="branch-api@2.0.18">
+  <actions>
+    <entry>
+      <string>org.jenkinsci.plugins.github_branch_source.GitHubSCMNavigator::https://api.github.com::ewapoplawska</string>
+      <list>
+        <jenkins.scm.api.metadata.ObjectMetadataAction plugin="scm-api@2.2.6">
+          <objectUrl>https://github.com/ewapoplawska</objectUrl>
+        </jenkins.scm.api.metadata.ObjectMetadataAction>
+        <org.jenkinsci.plugins.github__branch__source.GitHubOrgMetadataAction plugin="github-branch-source@2.3.2">
+          <avatar>https://avatars1.githubusercontent.com/u/35625131?v=4</avatar>
+        </org.jenkinsci.plugins.github__branch__source.GitHubOrgMetadataAction>
+        <org.jenkinsci.plugins.github__branch__source.GitHubLink plugin="github-branch-source@2.3.2">
+          <iconClassName>icon-github-logo</iconClassName>
+          <url>https://github.com/ewapoplawska</url>
+        </org.jenkinsci.plugins.github__branch__source.GitHubLink>
+      </list>
+    </entry>
+  </actions>
+</jenkins.branch.OrganizationFolder_-State>

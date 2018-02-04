@@ -1,0 +1,78 @@
+Started
+[Sun Feb 04 13:16:27 UTC 2018] Starting organization scan...
+[Sun Feb 04 13:16:27 UTC 2018] Updating actions...
+Looking up details of ewapoplawska...
+Organization URL: [8mha:////4N528JxDj7l7USdfXOvNF9FnZa71YT4S1Or11PcQzsyFAAAAnx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMiQL2GQzygpKSi20tdPzyzJKE0C6srVTy1PLMgvyEksL85OBADnJqk+pAAAAA==[0mhttps://github.com/ewapoplawska
+[Sun Feb 04 13:16:28 UTC 2018] Consulting GitHub Organization
+[8mha:////4FWn7uVrJ4k+6CnSfdXtrmer72I5RGLXoM9hafHIvZZ/AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHRiwtcfvwFre1r7jgAAAA==[0mConnecting to https://api.github.com using ewapoplawska/******
+[8mha:////4AUN0hU3t0RH8gobetDuXv37Jg8pCeWCMzxzMtL7HHvrAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHRiwtdfSwCMVbgyjgAAAA==[0mLooking up repositories of myself ewapoplawska
+Proposing se_hello_printer_app
+Examining [8mha:////4IHjCtlEMWORU11AweRODGewTmvDVO9qVRSH4VKWLur4AAAAsh+LCAAAAAAAAP9djbENwjAQRY8gGIAS0bBA3CAKUCoakCIaBogMnOyQwz7ZFxLWYA1oGIJx2IEgOn7zf/Pef7xhEANMbH2M3qUH76InTNdXxkClq7ZecJ7dn9mNXwkkGxgSOiM2h34dSGCUn/RFK9LOqJ2E0pllG2D8p1v9+iuDX3oJQMvdmArMrAjHhVKmFFvvO+qssNHsmXQTK60iFhaJfMHdgWAoNPMHd9lek7kAAAA=[0mewapoplawska/se_hello_printer_app
+
+  Checking branches...
+
+  Getting remote branches...
+
+    Checking branch [8mha:////4CMoS2JSzMvYTG2fbg+PJch3kBXyzX2D0ARkajnuziz9AAAAuR+LCAAAAAAAAP9djbENwjAURD9BZABKxAxxRwGKhEQDUkTDAJGBLzvEsb/sHxLWYA1oGIJx2AGjdFxzd8W9e35gEjzMdXsOzmYnZ4MzmG1vhN5Utt47xkX+eOV3eieQ7CA1aBXrAsatNwzT4iKvUhhplTiwr6xa9R5mf7jN4D8YDBolAD3FkDKsNTOFpRCqYt0e46oR2ElyZGQXaikClhqNcSXFA0ZfSiLBHlE0MsT+Bb4dGZjFAAAA[0mmaster
+
+  Getting remote pull requests...
+      ‘Jenkinsfile’ found
+    Met criteria
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining ewapoplawska/se_hello_printer_app
+
+Proposing se_nauka_gita_2
+[8mha:////4AI79kBbvwIpQkBQV48XYrVbhBrURKdObjJBAullPQIuAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHRiwjemiwDTBfTMjgAAAA==[0mConnecting to https://api.github.com using ewapoplawska/******
+Examining [8mha:////4OPmqnQraQoO3bf4vBKQy8PFyI+9coo3IZIQLVMOl4CRAAAArh+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMiQKWHQzygpKSi20tdPzyzJKE0C6srVTy1PLMgvyEksL85O1C9Ojc9LLM1OjAcqSIw3AgBTfITWtAAAAA==[0mewapoplawska/se_nauka_gita_2
+
+  Checking branches...
+
+  Getting remote branches...
+
+    Checking branch [8mha:////4KZ5fdXZbIh3j8z6A4D2vsSygRem7zKQYtN+ypK8P3BVAAAAth+LCAAAAAAAAP9djLENwjAQRY8gMgAlYoZYoqAApaIBKaJhgOiAkx3i2JZ9JmEN1oCGIRiHHQhKx2/+L95/zw9Mgoe5iudgTXayJlhN2fbmyOvK1HvLtMwfr/zu3gkkO0g1GcmqgHH0mmFaXPCKQqOR4sC+MnLdeZj96TZD/2QwZJQAdK4fKcNaMbuwEkJWrOKxfzWCWnTWaWxDjSJQaTDWWPYAlgvBnkg0GJj8Fx/fWHXAAAAA[0mmaster
+
+  Getting remote pull requests...
+      ‘Jenkinsfile’ not found
+    Does not meet criteria
+
+    Checking branch [8mha:////4EFEqDc9ZUJSDo5QyeGPrR7ycXv9mB/fYIUl0GBoB9OJAAAAwB+LCAAAAAAAAP9djLENwjAURD9BUFJQImaIJQoKUAoUIoEUKGCA6ANWHGJsy/4hYQ3WgIYhGIcdMErHNXfS3b3nB3rOwlhUJ6dVeNTKacnD1c1wKwtVbjXxafR4RXfzDiBYQ19ylZNIoVtZSTBMz3hFJlHlbE+2UPm8sTD6w8Wt/2DQqhMANMaHAUEsiIybMZYXJKqDf10Yr9FoI7F2JTLHM4VViZkfYDZhZDlnvrZYY7ZLFstN8gWk8xabyAAAAA==[0mpoprawa_README
+      ‘Jenkinsfile’ not found
+    Does not meet criteria
+
+  2 branches were processed
+
+  Checking pull-requests...
+
+  0 pull requests were processed
+
+Finished examining ewapoplawska/se_nauka_gita_2
+
+Proposing se_teaching_jenkins
+[8mha:////4CJU9O3oSKdn7+Bdwpc6XRPMDNDYV2NfLjcSPly0XBn2AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHRiwjcuMQDI2C0BjgAAAA==[0mConnecting to https://api.github.com using ewapoplawska/******
+Examining [8mha:////4FepdYIUPC8wQRPIuYkp2e0PaOvrfVCgkr8YoruYU/2pAAAAsh+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhQKGEwzigpKSi20tdPzyzJKE0C6srVTy1PLMgvyEksL85O1C9OjS9JTUzOAJoen5Wal52ZVwwAoB9xHbgAAAA=[0mewapoplawska/se_teaching_jenkins
+
+  Checking branches...
+
+  Getting remote branches...
+
+    Checking branch [8mha:////4DizgXWXJM5pu/3OrnDUx+dzSXmmBW37TBDXxOCaneKKAAAAuB+LCAAAAAAAAP9dzLENwjAQBdAjiAxAiZgh7ihAEQUNSBENA0RHONlJHNuyLySswRrQMATjsANB6fjN/81/zw/Mgoelai/BmqSwJlhNyf7myOvS1EfLtEofr/Tu3hFEB4g1Gckqg2nrNcM8q/CKQqOR4sS+NHLTe1j8cbuxfxiMmUQAvRtGzLBVzC6shZAlq/Y8vBpBHTrrNHahRhEoZ8JCDXpekalLEwR7ItFgYPJfo1+TRMQAAAA=[0mmaster
+
+  Getting remote pull requests...
+      ‘Jenkinsfile’ not found
+    Does not meet criteria
+
+  1 branches were processed
+
+  Checking pull-requests...
+
+  0 pull requests were processed
+
+Finished examining ewapoplawska/se_teaching_jenkins
+
+[8mha:////4G6xdaH3+SyjvmauQ1ZejDroXumbq0xKESLINHyKQgi0AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHRiwjdeBwDOumTMjgAAAA==[0m3 repositories were processed
+[Sun Feb 04 13:16:33 UTC 2018] Finished organization scan. Scan took 5.8 sec
+Finished: SUCCESS
